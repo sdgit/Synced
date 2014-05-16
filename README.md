@@ -14,7 +14,7 @@ Supported Operating Systems
 Windows
 
 Install
-1)Get the source
+1) Get the source
 
 Since there is no installer simply extract the files to the folder where you want Sick Beard to be or you can use git.
 2) Run Synced
